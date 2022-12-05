@@ -14,7 +14,7 @@ body {
   mix-blend-mode: normal;
 }
 .main-card {
-  height: 424px;
+  height: 397px;
   width: 350px;
   border-radius: 15px;
   background: #ffffff;
@@ -50,7 +50,7 @@ body {
   color: #6b7082;
 }
 .middle-div {
-  margin-top: 100px;
+  margin-top: 70px;
 }
 .london {
   font-family: "Kumbh Sans";
@@ -100,7 +100,6 @@ body {
   top: calc(50% - 96px / 2 - 47px);
   border: 5px solid #ffffff;
   border-radius: 50%;
-  background: url(http://127.0.0.1:5500/images/image-victor.jpg);
 }
 .victor-img {
   border-radius: 50%;
