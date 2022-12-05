@@ -102,3 +102,6 @@ body {
   border-radius: 50%;
   background: url(http://127.0.0.1:5500/images/image-victor.jpg);
 }
+.victor-img {
+  border-radius: 50%;
+}
